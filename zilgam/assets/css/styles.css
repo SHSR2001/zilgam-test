@@ -73,6 +73,7 @@ img{
   max-width: 100%;
   height: auto;
   display: block;
+  /* border: 5px solid #000; */
 }
 
 /*===== CLASS CSS ===== */
@@ -280,8 +281,8 @@ img{
   justify-self: center;
 }
 .about__img img{
-  max-width: fit-content;
-  max-height: fit0content;
+  /* max-width: fit-content;
+  max-height: fit0content; */
   border-radius: .5rem;
   align-self: center;
 }
