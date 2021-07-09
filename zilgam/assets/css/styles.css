@@ -280,8 +280,8 @@ img{
   justify-self: center;
 }
 .about__img img{
-  max-width: fit-content;
-  max-height: fit-content;
+  max-width: 500;
+  max-height: 500;
   border-radius: .5rem;
   align-self: center;
 }
