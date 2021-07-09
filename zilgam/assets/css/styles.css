@@ -266,14 +266,25 @@ img{
   
 }
 .cards {
-  
   display: flex;
   align-content: center;
   align-self: center;
   padding: .75rem 2.5rem;
-  margin-left: 125px; 
+  /* margin-left: 125px;  */
+  margin-left: 250px;  
   justify-content: center;
 }
+
+.cards_2 {
+  display: flex;
+  align-content: center;
+  align-self: center;
+  padding: .75rem 2.5rem;
+  /* margin-left: 125px;  */
+  margin-left: 125px;  
+  justify-content: center;
+}
+
 .about__subtitle{
   margin-bottom: var(--mb-2);
 }
